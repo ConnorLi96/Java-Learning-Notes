@@ -136,20 +136,22 @@ import java.util.Scanner;
 // Break 和 continue 
 
 // Break 一般是配合 if 语句在使用，break 会跳出自己那一层的循环然后进入下一层
-public class Process{
-    public static void main(String[] args){
-        int sum = 0;
-        for (int i =2; i<=10; i++){
-            System.out.println("begin i = " + i);
-            if (i % 2==0);{
-                continue;
-            }
-            sum = sum + i;
-            System.out.println("end i =" + i);
-        }
-        System.out.println(sum);
-    }
-}
+// public class Process{
+//     public static void main(String[] args){
+//         int sum = 0;
+//         for (int i =2; i<=10; i++){
+//             System.out.println("begin i = " + i);
+//             if (i % 2==0);{
+//                 continue;
+//             }
+//             sum = sum + i;
+//             System.out.println("end i =" + i);
+//         }
+//         System.out.println(sum);
+//     }
+// }
+
+
 
 
 

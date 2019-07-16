@@ -7,14 +7,14 @@ public class Hello { // 类名是 Hello public 是访问修饰符，表示类是
 } // class 定义结束
 
 
-public class Hello { // 类名是 Hello public 是访问修饰符，表示类是公开的
-    public static void main(String[] args) { 
-        int x = 100;
-        System.out.println(x);
-        x = 2;
-        System.out.println(x);
-        // System.out.println("==="); // '' 单引号不能作为字符串
-        // System.out.println(x+y);
-    }
-} // class 定义结束 
+// public class Hello { // 类名是 Hello public 是访问修饰符，表示类是公开的
+//     public static void main(String[] args) { 
+//         int x = 100;
+//         System.out.println(x);
+//         x = 2;
+//         System.out.println(x);
+//         // System.out.println("==="); // '' 单引号不能作为字符串
+//         // System.out.println(x+y);
+//     }
+// } // class 定义结束 
 
